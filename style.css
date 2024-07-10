@@ -46,6 +46,10 @@ section{
     font-family: var(--fonte3);
     font-size: 2.5vw;
 }
+section p {
+    padding-bottom: 2em;
+    font-size:2.5 ;
+}
 section.normal {
     background-color: white;
     color: black;
